@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703532785696",
+    "firebase_url": "https://quoratest1-fe434.firebaseio.com",
+    "project_id": "quoratest1-fe434",
+    "storage_bucket": "quoratest1-fe434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703532785696:android:7bbf7ac467de3e26885c45",
+        "android_client_info": {
+          "package_name": "com.namclu.android.bloquery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703532785696-b8gi787vv20cu7bbrpdsc1qsdu50nsi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJlK0-UfNJA7nJfKVjSX7CSmrHYqbMuHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703532785696-b8gi787vv20cu7bbrpdsc1qsdu50nsi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
